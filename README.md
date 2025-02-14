@@ -1,5 +1,3 @@
-# Meetup Liferay User Group Spain febrero 2025
-
 ## _Con un API y con paciencia, Liferay pierde la cabeza_
 Está charla tendrá formato taller y nos permitirá probar como conectamos sistemas externos con arquitecturas distintas al API Headless de Liferay
 
