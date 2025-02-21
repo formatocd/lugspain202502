@@ -1,7 +1,5 @@
 [Inicio](./lugspain202502) / Instalación de requisitos
 
-
-
 # Instalación de requisitos
 ## NVM (Node.js)
 ### Windows
