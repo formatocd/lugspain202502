@@ -32,6 +32,22 @@ Para arrancar el proyecto ejecuta el comando:
 composer run dev
 ```
 
-El proceso se quedará imprimiendo la traza en el terminal. El proyecto estará accesible desde el navegador en [http://localhost:8000](http://localhost:8000).
+El proceso se quedará imprimiendo la traza en el terminal. El proyecto estará accesible desde el navegador en http://localhost:8000
+
+## Liferay
+> [!IMPORTANT]
+> Requiere que Docker Desktop este arrancado
+
+### Descargar el proyecto
+```bash
+git clone https://github.com/formatocd/liferay-docker.git
+```
+### Inicializar el contenedor
+```bash
+cd liferay-docker
+docker compose up -d
+```
+
+Cuando termine de arrancar el contenedor completamente, el portal Liferay estará accesible desde el navegador en http://localhost:18080
 
 
