@@ -6,6 +6,8 @@
 ## NVM (Node.js)
 ### Windows
 Descargamos el instalador de [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe) y lo ejecutamos.
+> [!TIP]
+> Por defecto la instalación abre la ventana de PowerShell al terminar. Si no funcionara el comando `nvm`, cerrar todas las ventanas de PS y volver a abrir una nueva.
 ### Linux & Mac
 Sigue las [instrucciones](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) en repositorio oficial.
 
