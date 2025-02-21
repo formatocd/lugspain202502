@@ -17,6 +17,11 @@ Ejecuta los siguientes comandos:
 nvm install 22
 nvm use 22
 ```
+#### Error de ejecución de scripts en Windows
+Si después de instalar `node` y `npm`, al ejecutar cualquier comando de los dos falla y te sale el mensaje `No se puede cargar el archivo C:\nvm4w\nodejs\npm.ps1 porque la ejecución de scripts está deshabilitada en este sistema`, ejecuta el siguinete comando en PS con permiso de Administrador:
+```bash
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+```
 
 ## Vite
 > [!IMPORTANT]
