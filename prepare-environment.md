@@ -5,7 +5,7 @@
 # Instalación de requisitos
 ## NVM (Node.js)
 ### Windows
-Descargamos el instalador de [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-noinstall.zip) y lo ejecutamos.
+Descargamos el instalador de [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe) y lo ejecutamos.
 ### Linux & Mac
 Sigue las [instrucciones](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) en repositorio oficial.
 
