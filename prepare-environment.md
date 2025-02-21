@@ -1,1 +1,1 @@
-[Inicio](./) / Instalación de requisitos
+[Inicio](./lugspain202502) / Instalación de requisitos
