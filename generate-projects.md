@@ -1,4 +1,4 @@
-[Inicio](./lugspain202502) / Generacíon de proyectos
+[Inicio](/lugspain202502) / Generacíon de proyectos
 
 # Generacíon de proyectos
 
