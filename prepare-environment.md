@@ -1,1 +1,1 @@
-[Inicio](/) / Instalación de requisitos
+[Inicio](./) / Instalación de requisitos
