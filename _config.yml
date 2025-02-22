@@ -1,3 +1,3 @@
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-plugins:
-- jekyll-include-cache
+remote_theme: pages-themes/midnight@v0.2.0
+title: "Liferay User Group Spain - Febrero 2025"
+description: Meetup sobre la conexión del API Headless de Liferay otras arquitecturas
