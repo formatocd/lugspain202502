@@ -62,7 +62,7 @@ Scan for additional .ini files in: (none)
 Additional .ini files parsed:      (none)
 ```
 
-Edita el fichero `pho.ini` que te indica y edita la propiedad `variables_order` para que quede así:
+Edita el fichero `php.ini` que te indica y edita la propiedad `variables_order` para que quede así:
 ```ini
 variables_order = "GPCS"
 ```

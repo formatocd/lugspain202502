@@ -15,4 +15,4 @@ Está charla tendrá formato taller y nos permitirá probar como conectamos sist
 En este taller veremos como generar contenido desde la administración de Liferay para después conectarlo a un proyecto realizado desde 0 en PHP Laravel.
 
 ## Contacto
-Si tienes alguna duda con respecto al taller, puedes ponerte en contacto en [formatocd@proton.me](mailto:formatocd@proton.me)
+Si tienes alguna duda con respecto al taller, puedes ponerte en contacto en <formatocd@proton.me>
