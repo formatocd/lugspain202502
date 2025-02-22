@@ -16,18 +16,14 @@ nvm install 22
 nvm use 22
 ```
 #### Error de ejecución de scripts en Windows
-Si después de instalar `node` y `npm`, al ejecutar cualquier comando de los dos falla y te sale el mensaje `No se puede cargar el archivo C:\nvm4w\nodejs\npm.ps1 porque la ejecución de scripts está deshabilitada en este sistema`, ejecuta el siguiente comando en PS con permiso de Administrador:
+Después de instalar **NVM**, ejecuta el comando:
 ```bash
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+npm -v
 ```
 
-## Vite
-> [!IMPORTANT]
-> Requiere tener instalado **npm**
-
-Ejecuta este comando:
+Si el comando falla y te da el mensaje `No se puede cargar el archivo C:\nvm4w\nodejs\npm.ps1 porque la ejecución de scripts está deshabilitada en este sistema`, ejecuta el siguiente comando en una **terminal PowerShell con permiso de Administrador**:
 ```bash
-npm install -D vite
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
 ```
 
 ## Composer, PHP, Laravel Installer
