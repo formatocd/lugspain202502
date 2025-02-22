@@ -16,10 +16,11 @@ El programa de instalación te hará algunas preguntas. Basta con que pulses Ent
 
 ### Inicializar el proyecto
 
-Una vez se haya generado el proyecto, accedemos al directorio `project-name` e inicializamos el proyecto:
+Una vez se haya generado el proyecto, accedemos al directorio `project-name`, añadimos la dependencia de TailwindCSS e inicializamos el proyecto:
 
 ```bash
 cd project-name
+npm install tailwindcss @tailwindcss/vite
 npm install
 npm run build
 ```
