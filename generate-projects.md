@@ -33,7 +33,7 @@ Para arrancar el proyecto ejecuta el comando:
 composer run dev
 ```
 
-El proceso se quedará imprimiendo la traza en el terminal. El proyecto estará accesible desde el navegador en http://localhost:8000
+El proceso se quedará imprimiendo la traza en el terminal. El proyecto estará accesible desde el navegador en <http://localhost:8000>
 
 ### Error _failed to listen_
 Si al ejecutar `composer run dev` te aparece una traza como esta:
@@ -82,6 +82,6 @@ cd liferay-docker
 docker compose up -d
 ```
 
-Cuando termine de arrancar el contenedor completamente, el portal Liferay estará accesible desde el navegador en http://localhost:18080
+Cuando termine de arrancar el contenedor completamente, el portal Liferay estará accesible desde el navegador en <http://localhost:18080>
 
 
