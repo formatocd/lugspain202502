@@ -69,19 +69,32 @@ variables_order = "GPCS"
 
 
 ## Liferay
-> [!IMPORTANT]
+> **IMPORTANTE**
+> 
 > Requiere que Docker Desktop este arrancado
 
-### Descargar el proyecto
+### Versión contenedor
+Descargamos el proyecto Docker Compose
 ```bash
 git clone https://github.com/formatocd/liferay-docker.git
 ```
-### Inicializar el contenedor
+Accedemos al directorio de descarga e inicializamos el contenedor
 ```bash
 cd liferay-docker
 docker compose up -d
 ```
 
 Cuando termine de arrancar el contenedor completamente, el portal Liferay estará accesible desde el navegador en <http://localhost:18080>
+
+### Versión estandar
+> **AVISO**
+>
+> Requiere [Java Develoment Kit 21](https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html)
+
+Accedemos a la <a href="https://www.liferay.com/es/downloads-community" target="_blank">web de descargas</a> de **Liferay Portal**.
+
+Desplegamos el combo, seleccionamos Bundled with Tomcat (7z o tar.gz, la que prefieras), y pulsa en **Download**.
+
+Una vez se complete la descarga, solo hay que descomprimirlo donde quieras y ejecutar el fichero **startup.bat** (Windows) o **startup.sh** (Linux/macOS) situado en `${LIFERAY_HOME}/tomcat/bin`.
 
 

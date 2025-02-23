@@ -1,7 +1,8 @@
 ## _Con un API y con paciencia, Liferay pierde la cabeza_
-Está charla tendrá formato taller y nos permitirá probar como conectar el API Headless de Liferay con otras arquitecturas y tecnolgías
+Está charla tendrá formato taller y nos permitirá probar como conectar el API Headless de Liferay con otras arquitecturas y tecnologías
 
-> [!IMPORTANT]
+> **IMPORTANTE**
+> 
 > Recomiendo que se realicen los pasos **1** y **2** antes de iniciar el taller.
 
 1. [Instalar requisitos](./install-requirements)
