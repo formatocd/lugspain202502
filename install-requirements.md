@@ -1,14 +1,14 @@
-[Inicio](/lugspain202502) / Instalación de requisitos
+> [Inicio](./) / Instalación de requisitos
 
 # Instalación de requisitos
 ## NVM (Node.js)
 ### Windows
-Descargamos el instalador de [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe) y lo ejecutamos.
+Descargamos el instalador de <a href="https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe" target="_blank">NVM for Windows</a> y lo ejecutamos.
 > **CONSEJO**
 > 
 > Por defecto la instalación abre la ventana de PowerShell al terminar. Si no funcionara el comando `nvm`, cerrar todas las ventanas de PS y volver a abrir una nueva.
 ### Linux & Mac
-Sigue las [instrucciones](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) en repositorio oficial.
+Sigue las <a href="https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating" target="_blank">instrucciones</a> en repositorio oficial.
 
 ### Instalar Node y npm
 Ejecuta los siguientes comandos:
@@ -43,4 +43,10 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```bash
 /bin/bash -c "$(curl -fsSL https://php.new/install/linux/8.4)"
 ```
+## Docker Desktop
+> **CONSEJO**
+>
+> Sólo necesario si se va a usar Liferay portal en modo contenedor
+
+<a href="https://www.docker.com/products/docker-desktop/" target="_blank">Descarga</a> e instala la versión de Docker correspondiente a tu sistema operativo
 

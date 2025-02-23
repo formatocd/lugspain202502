@@ -1,4 +1,4 @@
-[Inicio](/lugspain202502) / Imágenes del taller
+> [Inicio](/lugspain202502) / Imágenes del taller
 
 # Imágenes del taller
 ## Imagen 'sin resultados'

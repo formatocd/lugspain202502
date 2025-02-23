@@ -1,4 +1,4 @@
-[Inicio](/lugspain202502) / Generacíon de proyectos
+> [Inicio](./) / Generacíon de proyectos
 
 # Generacíon de proyectos
 
@@ -33,7 +33,7 @@ Para arrancar el proyecto ejecuta el comando:
 composer run dev
 ```
 
-El proceso se quedará imprimiendo la traza en el terminal. El proyecto estará accesible desde el navegador en <http://localhost:8000>
+El proceso se quedará imprimiendo la traza en el terminal. El proyecto estará accesible desde el navegador en <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>
 
 ### Error _failed to listen_
 Si al ejecutar `composer run dev` te aparece una traza como esta:
@@ -84,12 +84,12 @@ cd liferay-docker
 docker compose up -d
 ```
 
-Cuando termine de arrancar el contenedor completamente, el portal Liferay estará accesible desde el navegador en <http://localhost:18080>
+Cuando termine de arrancar el contenedor completamente, el portal Liferay estará accesible desde el navegador en <a href="http://localhost:18080" target="_blank">http://localhost:18080</a>
 
 ### Versión estandar
 > **AVISO**
 >
-> Requiere [Java Develoment Kit 21](https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html)
+> Requiere <a href="https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html" target="_blank">Java Develoment Kit 21</a>
 
 Accedemos a la <a href="https://www.liferay.com/es/downloads-community" target="_blank">web de descargas</a> de **Liferay Portal**.
 
