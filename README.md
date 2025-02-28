@@ -10,9 +10,6 @@ Está charla tendrá formato taller y nos permitirá probar como conectar el API
 3. [Código fuente](https://gist.github.com/formatocd/881eb95166e52c604a5bbe95fc995e0b)
 4. [Imágenes del taller](./assets/images.zip)
 
-## Imágenes del taller
-[Ver](./workshop-images)
-
 ## Objetivo
 En este taller veremos como generar contenido desde la administración de Liferay para después conectarlo a un proyecto realizado desde 0 en PHP Laravel.
 
