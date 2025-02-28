@@ -5,9 +5,10 @@ Está charla tendrá formato taller y nos permitirá probar como conectar el API
 > 
 > Recomiendo que se realicen los pasos **1** y **2** antes de iniciar el taller.
 
-1. [Instalar requisitos](./install-requirements)
-2. [Generar proyectos](./generate-projects)
+1. [Instalar requisitos](./01_install-requirements)
+2. [Generar proyectos](./02_generate-projects)
 3. [Código fuente](https://gist.github.com/formatocd/881eb95166e52c604a5bbe95fc995e0b)
+4. [Imágenes del taller](./assets/images.zip)
 
 ## Imágenes del taller
 [Ver](./workshop-images)
